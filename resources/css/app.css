@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.body-text {
+  @apply font-noto text-base text-base-content;
+}
